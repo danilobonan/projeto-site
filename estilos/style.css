@@ -39,3 +39,7 @@ a:hover {
     text-decoration: underline;
     color: rgb(58, 0, 122)
 }
+
+iframe {
+    width: 495px;
+}
